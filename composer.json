@@ -42,12 +42,12 @@
     },
     "autoload": {
         "psr-4": {
-            "declaro-mx\\SatWsDescargaMasiva\\": "src/"
+            "Declaromx\\SatWsDescargaMasiva\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "declaro-mx\\SatWsDescargaMasiva\\Tests\\": "tests/"
+            "Declaromx\\SatWsDescargaMasiva\\Tests\\": "tests/"
         }
     },
     "scripts": {
